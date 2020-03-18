@@ -6,4 +6,4 @@ Makefile
 .DS_Store
 .idea
 **.solution.js
-.jshintrc
+.jshintrcnode_modules
